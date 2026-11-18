@@ -4,7 +4,7 @@ export default async function handler(req, res) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Key l3ir22qnrewgn6crjfecwc5c6'
+        'Authorization': 'Key os_v2_app_de7sd7k4evflre22vgcozqbvhhuontopnkmefjvfig6wwjecdcw6fajfvppk6kgr7drmssdal3nnntnuehqtpbsmcqkbo6hbnvgo4ii'
       },
       body: JSON.stringify({
         app_id: '193f21fd-5c25-4ab8-935a-a984ecc03539',
