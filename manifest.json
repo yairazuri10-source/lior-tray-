@@ -1,0 +1,18 @@
+{
+  "name": "LIOR TRAY — מערכת חכמה לתזונה, כדורים ותזכורות",
+  "short_name": "LIOR TRAY",
+  "description": "מערכת חכמה לתזונה, כדורים ותזכורות",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D1B14",
+  "theme_color": "#52B788",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%2352B788'/><text y='.9em' x='50%' text-anchor='middle' font-size='65'>💊</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
